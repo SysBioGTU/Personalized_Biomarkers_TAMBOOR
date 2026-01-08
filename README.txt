@@ -14,6 +14,7 @@ The Ham’s medium metabolites and corresponding exchange reactions that were us
 
 Defining Subgroups of Patients by the Clustering Approach
 **********************************************************
-The codes for patient grouping with clustering, feature selection, and cluster assignment based on features are given in the file "clustering_patients.R".
+The codes for patient grouping with clustering, feature selection, and cluster assignment based on features are given in the file "clustering_patients_revised.R".
 Metabolites that can be produced and secreted under given constraints (they are identified in TAMBOOR_step2_max_secretion.m) are given in the file "mets.txt". 
 Filtered metabolite lists (dipeptides and tripeptides were filtered out) are given in the file "f_mets.txt". 
+
